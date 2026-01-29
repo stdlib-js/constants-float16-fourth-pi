@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT16_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-fourth-pi@esm/index.mjs';
+import FLOAT16_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-fourth-pi@v0.1.0-esm/index.mjs';
 ```
 
 #### FLOAT16_FOURTH_PI
@@ -72,7 +72,7 @@ var bool = ( FLOAT16_FOURTH_PI === 0.78515625 );
 <body>
 <script type="module">
 
-import FLOAT16_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-fourth-pi@esm/index.mjs';
+import FLOAT16_FOURTH_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-fourth-pi@v0.1.0-esm/index.mjs';
 
 console.log( FLOAT16_FOURTH_PI );
 // => 0.78515625
